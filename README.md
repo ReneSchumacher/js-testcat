@@ -6,6 +6,7 @@ Add test categories to mocha (BDD style) and jasmine tests.
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat&maxAge=3600)](https://opensource.org/licenses/MIT)
 
 ## Get started
+Ich mache alles kaputt!
 
 ### Install the library
 Install the library to your project (usually as a dev dependency).
